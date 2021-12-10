@@ -25,6 +25,10 @@
   /* Se quiser ele com o scroll */
 }
 
+#bicicleta .bicicletas-lista ul {
+    padding: 0px 0px 20px 0px;
+}
+
 #home .bicicletas-lista ul{
     max-width: 1400px;
     padding: 20px;

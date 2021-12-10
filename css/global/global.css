@@ -4,7 +4,7 @@ body {
     color: #1111;
 }
 
-h1, h2, h3, h4, h5, ul, p, blockquote{
+h1, h2, h3, h4, h5, ul, p, blockquote,dd{
     margin: 0px;
 }
 

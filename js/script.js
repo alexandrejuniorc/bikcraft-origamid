@@ -60,7 +60,7 @@ perguntas.forEach(eventosPerguntas);
 const galeria = document.querySelectorAll('.bicicleta-imagens img');  // CRIA A CONSTANTE GALERIA PUXANDO A DIV .BICICLETA-IMAGENS E VARIÁVEL IMG QUE ESTÁ DENTRO 
 const galeriaContainer = document.querySelector('.bicicleta-imagens'); // CRIA A CONSTANTE GALERIACONTAINER DA DIV .BICICLETA-IMAGENS 
 
-console.log(galeria, galeriaContainer);
+
 
 function trocarImagem(event){
     const img = event.currentTarget; // SEMPRE SELECIONAR O ITEM QUE ESTOU CLICANDO
@@ -76,3 +76,10 @@ function eventosGaleria(img){   //FUNÇÃO DE CLIQUE
 }
 
 galeria.forEach(eventosGaleria); // ADICIONANDO EVENTO DE CLIQUE
+
+
+//ANIMAÇÃO
+
+if(window.SimpleAnime){
+    new SimpleAnime();  // new inicia uma classe
+}

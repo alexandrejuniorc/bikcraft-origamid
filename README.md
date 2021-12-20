@@ -2,12 +2,12 @@
 
 # Sobre
 
-<p align="center">Esse projeto foi feito juntamente ao curso Origamid ministrado por André Rafael.</p>
+<p align="center">Esse projeto foi feito juntamente ao curso Origamid ministrado por André Rafael<br>para ser utilizado em futuros projetos reais.</p>
 
 <p align="center">
     <a href="#Sobre">Sobre</a>
-    <a href="#Funcionamento">Pré-requisitos</a>
-    <a href="#Utilizando">Funcionamento</a>
+    <a href="#Requisitos">Requisitos</a>
+    <a href="#Funcionamento">Funcionamento</a>
     <a href="#Tecnologias">Tecnologias</a>
     <a href="#Autor">Autor</a>
 
@@ -19,14 +19,13 @@
     <img alt="Readme" title="Readme" src="./bikcraft.gif">
 </h1>
 
-# Funcionamento
+# Requisitos
 
-#pre-requisitos
 Antes de começar, você vai precisar ter instalado em sua máquina as seguintes ferramentas:
 [Git](https://git.scm.com), [Node.js](https://nodejs.org/en).
 Além disto é bom ter um editor para trabalhar com o código como [VSCode](https://code.visualstudio.com/)
 
-# Utilizando
+# Funcionamento
 
 ```bash
 # Clone este repositório

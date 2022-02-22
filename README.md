@@ -54,4 +54,4 @@ As seguintes ferramentas foram usadas na construção do projeto:
 
 # Autor
 
-Feito por ❤️ by Alexandre Junior [Veja meu LinkedIn](https://www.linkedin.com/in/alexandrejuniorc/)
+Feito por Alexandre Junior [Veja meu LinkedIn](https://www.linkedin.com/in/alexandrejuniorc/)
